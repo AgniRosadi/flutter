@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452487146883",
+    "project_id": "gazesport-b5620",
+    "storage_bucket": "gazesport-b5620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452487146883:android:93cacd6ae899cd22b7dab6",
+        "android_client_info": {
+          "package_name": "com.example.gazesport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452487146883-2tvsisacu8m2f5l92mj4af9ecngmvtiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrtlyPstae_gIdifZ3fxlItMU7EH0CISM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452487146883-2tvsisacu8m2f5l92mj4af9ecngmvtiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
